@@ -1,0 +1,5 @@
+hub hg38_cell_cycle_pairend_hub2 
+shortLabel hg38_cell_cycle_pairend_hub2
+longLabel hg38_cell_cycle_pairend_hub2
+genomesFile genomes.txt
+email x.zou23@lms.mrc.ac.uk
